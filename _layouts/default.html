@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="zh-CN" class="no-js">
+<html lang="{{ page.lang | default: 'en' }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -32,10 +32,13 @@ layout: compress
 <div class="footer_site">
 <hr/>
 <div class="footer_copyright">
-  © {{ site.time | date: '%Y' }} {{ site.title }} | 基于&nbsp
-  <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
-  acad
-  </a>&nbsp模板
+  {% if page.lang == "zh-CN" %}
+    © {{ site.time | date: '%Y' }} {{ site.title }} | 基于&nbsp;
+    <a class="page_a" href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>&nbsp;模板
+  {% else %}
+    © {{ site.time | date: '%Y' }} {{ site.title }} | Based on the&nbsp;
+    <a class="page_a" href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>&nbsp;template
+  {% endif %}
 </div>
 </div>
   </body>

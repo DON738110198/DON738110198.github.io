@@ -8,7 +8,7 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ site.title }}</title>
+<title>{% if page.seo_title %}{{ page.seo_title }}{% else %}{{ site.title }}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -29,7 +29,11 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="zh_CN">
+{% if page.lang == "zh-CN" %}
+  <meta property="og:locale" content="zh_CN">
+{% else %}
+  <meta property="og:locale" content="en_US">
+{% endif %}
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ site.title }}">
 

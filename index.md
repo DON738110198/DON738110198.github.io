@@ -4,6 +4,8 @@ title: ""
 excerpt: ""
 layout: default
 author_profile: true
+lang: en
+seo_title: "DON738110198 - Homepage"
 redirect_from:
   - /about/
   - /about.html
@@ -18,24 +20,109 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 简介
+# About Me
 
-<span class='anchor' id='-xl'></span>
+I am preparing this homepage as a compact academic and engineering profile. It will collect my research interests, selected projects, publications, experience, and contact links in one public place.
 
-# 学历
+The site is intentionally written in English by default so it can be shared more easily with an international audience. A Chinese version is available from the language switch in the navigation bar.
 
-<span class='anchor' id='-lwzl'></span>
+<div class="profile-summary" markdown="1">
 
-# 论文专利
+**Current focus.** Building a clean, maintainable personal homepage and preparing a public portfolio of research, engineering, and project work.
 
-<span class='anchor' id='-ryjx'></span>
+**What will be added next.** Biography, education records, representative projects, papers, awards, talks, and internship or work experience.
 
-# 荣誉奖项
+</div>
 
-<span class='anchor' id='-xshy'></span>
+<div class="tag-list">
+  <span>Academic Homepage</span>
+  <span>Research Portfolio</span>
+  <span>Engineering Projects</span>
+  <span>GitHub Pages</span>
+</div>
 
-# 学术会议
+<span class='anchor' id='news'></span>
 
-<span class='anchor' id='-gzsx'></span>
+# News
 
-# 工作实习
+- **2026.06**: This homepage has been redeployed with an English-first layout and bilingual navigation.
+- **Next update**: Replace placeholder sections with verified personal information, project records, and publication entries.
+
+<span class='anchor' id='research'></span>
+
+# Research Interests
+
+<div class="mini-grid" markdown="1">
+
+**Artificial Intelligence**
+
+Learning systems, agents, evaluation workflows, and practical AI applications.
+
+**Software Engineering**
+
+Reliable web systems, automation, developer tooling, and full-stack implementation.
+
+**Data and Systems**
+
+Data collection, analysis pipelines, dashboards, and reproducible technical reports.
+
+</div>
+
+<span class='anchor' id='projects'></span>
+
+# Selected Projects
+
+<div class='project-entry' markdown="1">
+
+### Personal Homepage
+
+This site is the first public project in the portfolio. It uses a GitHub Pages compatible academic homepage template, with English and Chinese entry points.
+
+[[Website]](https://don738110198.github.io) [[GitHub]](https://github.com/DON738110198/DON738110198.github.io)
+
+</div>
+
+<div class='project-entry muted-entry' markdown="1">
+
+### Project Slot
+
+Add a representative research or engineering project here: problem, method, your role, code link, demo link, and key outcome.
+
+</div>
+
+<span class='anchor' id='publications'></span>
+
+# Publications
+
+No verified publication list has been added yet. When available, this section can follow the style of the reference homepage: venue badge, paper title, authors, links, and a short impact summary.
+
+<div class="publication-template" markdown="1">
+
+- `Venue Year` Paper title, authors. [[Paper]](#) [[Code]](#) [[Project]](#)
+- `Preprint` Project or technical report title, authors. [[PDF]](#) [[GitHub]](#)
+
+</div>
+
+<span class='anchor' id='honors'></span>
+
+# Honors and Awards
+
+- To be added after the award list is confirmed.
+
+<span class='anchor' id='education'></span>
+
+# Education
+
+- To be added after school, degree, department, and date information are confirmed.
+
+<span class='anchor' id='talks'></span>
+
+# Invited Talks
+
+- To be added after talk titles, venues, and dates are confirmed.
+
+<span class='anchor' id='experience'></span>
+
+# Experience
+
+- To be added after internship, work, or project experience is confirmed.

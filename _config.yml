@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "DON738110198"
-description              : "个人学术主页"
+description              : "Personal academic homepage"
 repository               : "DON738110198/DON738110198.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "DON738110198"
   avatar           : "images/android-chrome-512x512.png"
-  bio              :
+  bio              : "Personal Academic Homepage"
   location         :
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    :
   email            :
   researchgate     :
-  uri              : 
+  uri              : "https://don738110198.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
