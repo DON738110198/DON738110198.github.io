@@ -34,12 +34,9 @@ The site is intentionally written in English so it can be shared more easily wit
 
 **Academic path.** B.S. period at South China Normal University, 2021-2025; master's period at South China University of Technology, 2025-2028.
 
-**Contact.** [wh13650860369@gmail.com](mailto:wh13650860369@gmail.com)
-
 </div>
 
 <div class="tag-list">
-  <span>Academic Homepage</span>
   <span>Human-Object Interaction</span>
   <span>Text-to-3D Interaction</span>
   <span>Agent Test-Time Scaling</span>

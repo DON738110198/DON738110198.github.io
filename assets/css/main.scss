@@ -119,11 +119,20 @@ h1:before, .anchor:before {
     margin-bottom: .45em;
 }
 
+.author__research-list {
+    line-height: 1.45;
+}
+
+.author__research-list span {
+    display: block;
+    margin-bottom: .15em;
+}
+
 .tag-list {
     display: flex;
     flex-wrap: wrap;
     gap: .55em;
-    margin: 1.2em 0 1.8em;
+    margin: 1.45em 0 1.9em;
 }
 
 .tag-list span {

@@ -24,6 +24,10 @@ author:
   name             : "DON738110198"
   avatar           : "/images/android-chrome-512x512.png"
   bio              : "M.S. Student, South China University of Technology"
+  research_interests:
+    - "Human-Object Interaction"
+    - "Text-to-3D Human Interaction"
+    - "Agent Test-Time Scaling"
   location         :
   employer         : "South China University of Technology"
   pubmed           : 
