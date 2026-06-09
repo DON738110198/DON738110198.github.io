@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "DON738110198"
+title                    : "Hao Wang"
 description              : "Human-Object Interaction, Text-to-3D Human Interaction, and Agent Test-Time Scaling"
 repository               : "DON738110198/DON738110198.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "DON738110198"
+  name             : "Hao Wang"
   avatar           : "/images/android-chrome-512x512.png"
   bio              : "M.S. Student, South China University of Technology"
   research_interests:

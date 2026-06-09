@@ -28,10 +28,10 @@
         {% endif %}
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li class="author__meta-line"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i><span>{{ author.location }}</span></li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li class="author__meta-line"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i><span>{{ author.employer }}</span></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>

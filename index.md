@@ -5,7 +5,7 @@ excerpt: ""
 layout: default
 author_profile: true
 lang: en
-seo_title: "DON738110198 - Homepage"
+seo_title: "Hao Wang - Homepage"
 redirect_from:
   - /about/
   - /about.html
@@ -46,8 +46,9 @@ The site is intentionally written in English so it can be shared more easily wit
 
 # News
 
+- **2026.06**: One paper, **MaMi-HOI**, was accepted to **ICML 2026**.
 - **2026.06**: Added education background and research interests to the homepage.
-- **Next update**: Add representative projects, publication entries, and research artifacts.
+- **Next update**: Add more project materials, demos, and research artifacts.
 
 <span class='anchor' id='research'></span>
 
@@ -84,21 +85,31 @@ The site is intentionally written in English so it can be shared more easily wit
 
 # Selected Projects
 
+<div class="featured-work" markdown="1">
+
+<div class="featured-work-image">
+  <img src="/images/mami-hoi-teaser.png" alt="MaMi-HOI teaser">
+</div>
+
+<div class="featured-work-text" markdown="1">
+
+### MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation
+
+**ICML 2026.** MaMi-HOI is a text- and geometry-conditioned framework for high-fidelity 3D human-object interaction generation. It targets the tension between natural global motion and precise local object contact through a geometry-aware and kinematics-aware design.
+
+[[Paper]](/pdf/MaMi-HOI-ICML-2026.pdf) [[arXiv]](https://arxiv.org/abs/2605.05756) [[Code]](https://github.com/DON738110198/MaMi-HOI)
+
+</div>
+
+</div>
+
 <div class='project-entry' markdown="1">
 
 ### Personal Homepage
 
-This site is the first public project in the portfolio. It uses a GitHub Pages compatible academic homepage template with a clean English-first structure.
+This site is maintained as a compact academic profile and research portfolio.
 
 [[Website]](https://don738110198.github.io) [[GitHub]](https://github.com/DON738110198/DON738110198.github.io)
-
-</div>
-
-<div class='project-entry muted-entry' markdown="1">
-
-### Research Project Slot
-
-Add a representative project here: research problem, method, your role, code link, demo link, and key outcome. Good candidates include HOI generation, text-to-3D interaction, or agent test-time scaling experiments.
 
 </div>
 
@@ -106,20 +117,22 @@ Add a representative project here: research problem, method, your role, code lin
 
 # Publications
 
-No verified publication list has been added yet. When available, this section can follow the style of the reference homepage: venue badge, paper title, authors, links, and a short impact summary.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/mami-hoi-teaser.png' alt="MaMi-HOI teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class="publication-template" markdown="1">
+- `Hao Wang`, Shiqi Wang, Qi Liu. **MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation.** *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).*  
+[[Paper]](/pdf/MaMi-HOI-ICML-2026.pdf) [[arXiv]](https://arxiv.org/abs/2605.05756) [[Code]](https://github.com/DON738110198/MaMi-HOI)
 
-- `Venue Year` Paper title, authors. [[Paper]](#) [[Code]](#) [[Project]](#)
-- `Preprint` Project or technical report title, authors. [[PDF]](#) [[GitHub]](#)
+MaMi-HOI studies 3D human-object interaction generation and introduces a retrieve-and-harmonize framework that preserves natural whole-body motion while improving precise object contact.
 
+</div>
 </div>
 
 <span class='anchor' id='honors'></span>
 
 # Honors and Awards
 
-- To be added after the award list is confirmed.
+- **ICML 2026 paper acceptance** for MaMi-HOI.
 
 <span class='anchor' id='education'></span>
 
