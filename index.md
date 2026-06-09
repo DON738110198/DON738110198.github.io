@@ -58,7 +58,7 @@ The site is intentionally written in English so it can be shared more easily wit
 
 <div class="research-cards">
   <article class="research-card">
-    <img src="/images/research-hoi.svg" alt="Human-object interaction visual">
+    <img src="/images/research-hoi.png" alt="Human-object interaction visual">
     <div class="research-card-body">
       <p class="research-kicker">Embodied interaction</p>
       <h3>Human-Object Interaction</h3>
@@ -66,7 +66,7 @@ The site is intentionally written in English so it can be shared more easily wit
     </div>
   </article>
   <article class="research-card">
-    <img src="/images/research-text3d.svg" alt="Text-to-3D human interaction visual">
+    <img src="/images/research-text3d.png" alt="Text-to-3D human interaction visual">
     <div class="research-card-body">
       <p class="research-kicker">Generative 3D motion</p>
       <h3>Text-to-3D Human Interaction</h3>
@@ -74,7 +74,7 @@ The site is intentionally written in English so it can be shared more easily wit
     </div>
   </article>
   <article class="research-card">
-    <img src="/images/research-agent-tts.svg" alt="Agent test-time scaling visual">
+    <img src="/images/research-agent-tts.png" alt="Agent test-time scaling visual">
     <div class="research-card-body">
       <p class="research-kicker">Inference-time reasoning</p>
       <h3>Agent Test-Time Scaling</h3>
