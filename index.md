@@ -44,7 +44,7 @@ The site is intentionally written in English so it can be shared more easily wit
 
 <span class='anchor' id='news'></span>
 
-# News
+# 🎉 News
 
 - **2026.06**: One paper, **MaMi-HOI**, was accepted to **ICML 2026**.
 - **2026.06**: Added education background and research interests to the homepage.
@@ -115,7 +115,7 @@ This site is maintained as a compact academic profile and research portfolio.
 
 <span class='anchor' id='publications'></span>
 
-# Publications
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/mami-hoi-teaser.png' alt="MaMi-HOI teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,7 +136,7 @@ MaMi-HOI studies 3D human-object interaction generation and introduces a retriev
 
 <span class='anchor' id='education'></span>
 
-# Education
+# 📖 Education
 
 - **South China University of Technology**, 2025-2028.
 
@@ -154,6 +154,6 @@ MaMi-HOI studies 3D human-object interaction generation and introduces a retriev
 
 <span class='anchor' id='experience'></span>
 
-# Experience
+# 💻 Internship
 
 - To be added after internship, work, or project experience is confirmed.
