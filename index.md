@@ -56,20 +56,31 @@ The site is intentionally written in English so it can be shared more easily wit
 
 # Research Interests
 
-<div class="mini-grid" markdown="1">
-
-**Human-Object Interaction**
-
-Modeling interactions between humans and objects, with attention to spatial relations, action semantics, and physically plausible behavior.
-
-**Text-to-3D Human Interaction**
-
-Generating 3D human-object interaction motions or scenes from natural language descriptions.
-
-**Agent Test-Time Scaling**
-
-Improving agent reasoning and decision quality by allocating more computation, sampling, verification, or tool-use effort at test time.
-
+<div class="research-cards">
+  <article class="research-card">
+    <img src="/images/research-hoi.svg" alt="Human-object interaction visual">
+    <div class="research-card-body">
+      <p class="research-kicker">Embodied interaction</p>
+      <h3>Human-Object Interaction</h3>
+      <p>Modeling interactions between humans and objects, with attention to spatial relations, action semantics, and physically plausible behavior.</p>
+    </div>
+  </article>
+  <article class="research-card">
+    <img src="/images/research-text3d.svg" alt="Text-to-3D human interaction visual">
+    <div class="research-card-body">
+      <p class="research-kicker">Generative 3D motion</p>
+      <h3>Text-to-3D Human Interaction</h3>
+      <p>Generating 3D human-object interaction motions or scenes from natural language descriptions.</p>
+    </div>
+  </article>
+  <article class="research-card">
+    <img src="/images/research-agent-tts.svg" alt="Agent test-time scaling visual">
+    <div class="research-card-body">
+      <p class="research-kicker">Inference-time reasoning</p>
+      <h3>Agent Test-Time Scaling</h3>
+      <p>Improving agent reasoning and decision quality by allocating more computation, sampling, verification, or tool-use effort at test time.</p>
+    </div>
+  </article>
 </div>
 
 <span class='anchor' id='projects'></span>
