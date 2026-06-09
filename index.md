@@ -24,7 +24,7 @@ redirect_from:
 
 I am preparing this homepage as a compact academic and engineering profile. It will collect my research interests, selected projects, publications, experience, and contact links in one public place.
 
-The site is intentionally written in English by default so it can be shared more easily with an international audience. A Chinese version is available from the language switch in the navigation bar.
+The site is intentionally written in English so it can be shared more easily with an international audience.
 
 <div class="profile-summary" markdown="1">
 
@@ -76,7 +76,7 @@ Data collection, analysis pipelines, dashboards, and reproducible technical repo
 
 ### Personal Homepage
 
-This site is the first public project in the portfolio. It uses a GitHub Pages compatible academic homepage template, with English and Chinese entry points.
+This site is the first public project in the portfolio. It uses a GitHub Pages compatible academic homepage template with a clean English-first structure.
 
 [[Website]](https://don738110198.github.io) [[GitHub]](https://github.com/DON738110198/DON738110198.github.io)
 

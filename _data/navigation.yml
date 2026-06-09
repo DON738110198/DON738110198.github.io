@@ -1,5 +1,5 @@
 # main links links
-en:
+main:
   - title: "About"
     url: "/#about-me"
 
@@ -17,22 +17,3 @@ en:
 
   - title: "Education"
     url: "/#education"
-
-zh:
-  - title: "简介"
-    url: "/zh-cn/#about-me"
-
-  - title: "动态"
-    url: "/zh-cn/#news"
-
-  - title: "研究方向"
-    url: "/zh-cn/#research"
-
-  - title: "项目"
-    url: "/zh-cn/#projects"
-
-  - title: "论文专利"
-    url: "/zh-cn/#publications"
-
-  - title: "学历"
-    url: "/zh-cn/#education"
