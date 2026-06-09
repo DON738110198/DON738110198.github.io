@@ -22,7 +22,7 @@ redirect_from:
 
 # About Me
 
-I am preparing this homepage as a compact academic and engineering profile. It will collect my research interests, selected projects, publications, experience, and contact links in one public place.
+I am at **South China University of Technology**. This homepage is prepared as a compact academic and engineering profile, collecting my research interests, selected projects, publications, experience, and contact links in one public place.
 
 The site is intentionally written in English so it can be shared more easily with an international audience.
 
@@ -31,6 +31,8 @@ The site is intentionally written in English so it can be shared more easily wit
 **Current focus.** Building a clean, maintainable personal homepage and preparing a public portfolio of research, engineering, and project work.
 
 **What will be added next.** Biography, education records, representative projects, papers, awards, talks, and internship or work experience.
+
+**Contact.** [wh13650860369@gmail.com](mailto:wh13650860369@gmail.com)
 
 </div>
 
@@ -113,7 +115,9 @@ No verified publication list has been added yet. When available, this section ca
 
 # Education
 
-- To be added after school, degree, department, and date information are confirmed.
+- **South China University of Technology**.
+
+  Degree, department, and dates to be added after confirmation.
 
 <span class='anchor' id='talks'></span>
 
