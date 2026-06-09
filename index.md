@@ -22,15 +22,17 @@ redirect_from:
 
 # About Me
 
-I am at **South China University of Technology**. This homepage is prepared as a compact academic and engineering profile, collecting my research interests, selected projects, publications, experience, and contact links in one public place.
+I am a master's student at **South China University of Technology**. Before that, I received my undergraduate education at **South China Normal University**.
+
+My research interests include **Human-Object Interaction**, **text-to-3D human interaction generation**, and **agent test-time scaling**. This homepage collects my research interests, selected projects, publications, experience, and contact links in one public place.
 
 The site is intentionally written in English so it can be shared more easily with an international audience.
 
 <div class="profile-summary" markdown="1">
 
-**Current focus.** Building a clean, maintainable personal homepage and preparing a public portfolio of research, engineering, and project work.
+**Current focus.** Human-object interaction, controllable 3D human interaction generation from text, and scaling agent performance at test time.
 
-**What will be added next.** Biography, education records, representative projects, papers, awards, talks, and internship or work experience.
+**Academic path.** B.S. period at South China Normal University, 2021-2025; master's period at South China University of Technology, 2025-2028.
 
 **Contact.** [wh13650860369@gmail.com](mailto:wh13650860369@gmail.com)
 
@@ -38,17 +40,17 @@ The site is intentionally written in English so it can be shared more easily wit
 
 <div class="tag-list">
   <span>Academic Homepage</span>
-  <span>Research Portfolio</span>
-  <span>Engineering Projects</span>
-  <span>GitHub Pages</span>
+  <span>Human-Object Interaction</span>
+  <span>Text-to-3D Interaction</span>
+  <span>Agent Test-Time Scaling</span>
 </div>
 
 <span class='anchor' id='news'></span>
 
 # News
 
-- **2026.06**: This homepage has been redeployed with an English-first layout and bilingual navigation.
-- **Next update**: Replace placeholder sections with verified personal information, project records, and publication entries.
+- **2026.06**: Added education background and research interests to the homepage.
+- **Next update**: Add representative projects, publication entries, and research artifacts.
 
 <span class='anchor' id='research'></span>
 
@@ -56,17 +58,17 @@ The site is intentionally written in English so it can be shared more easily wit
 
 <div class="mini-grid" markdown="1">
 
-**Artificial Intelligence**
+**Human-Object Interaction**
 
-Learning systems, agents, evaluation workflows, and practical AI applications.
+Modeling interactions between humans and objects, with attention to spatial relations, action semantics, and physically plausible behavior.
 
-**Software Engineering**
+**Text-to-3D Human Interaction**
 
-Reliable web systems, automation, developer tooling, and full-stack implementation.
+Generating 3D human-object interaction motions or scenes from natural language descriptions.
 
-**Data and Systems**
+**Agent Test-Time Scaling**
 
-Data collection, analysis pipelines, dashboards, and reproducible technical reports.
+Improving agent reasoning and decision quality by allocating more computation, sampling, verification, or tool-use effort at test time.
 
 </div>
 
@@ -86,9 +88,9 @@ This site is the first public project in the portfolio. It uses a GitHub Pages c
 
 <div class='project-entry muted-entry' markdown="1">
 
-### Project Slot
+### Research Project Slot
 
-Add a representative research or engineering project here: problem, method, your role, code link, demo link, and key outcome.
+Add a representative project here: research problem, method, your role, code link, demo link, and key outcome. Good candidates include HOI generation, text-to-3D interaction, or agent test-time scaling experiments.
 
 </div>
 
@@ -115,9 +117,13 @@ No verified publication list has been added yet. When available, this section ca
 
 # Education
 
-- **South China University of Technology**.
+- **South China University of Technology**, 2025-2028.
 
-  Degree, department, and dates to be added after confirmation.
+  Master's study.
+
+- **South China Normal University**, 2021-2025.
+
+  Undergraduate study.
 
 <span class='anchor' id='talks'></span>
 
