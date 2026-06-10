@@ -47,8 +47,6 @@ The site is intentionally written in English so it can be shared more easily wit
 # 🎉 News
 
 - **2026.06**: One paper, **MaMi-HOI**, was accepted to **ICML 2026**.
-- **2026.06**: Added education background and research interests to the homepage.
-- **Next update**: Add more project materials, demos, and research artifacts.
 
 <span class='anchor' id='research'></span>
 
@@ -100,16 +98,6 @@ The site is intentionally written in English so it can be shared more easily wit
 [[Paper]](/pdf/MaMi-HOI-ICML-2026.pdf) [[arXiv]](https://arxiv.org/abs/2605.05756) [[Code]](https://github.com/DON738110198/MaMi-HOI)
 
 </div>
-
-</div>
-
-<div class='project-entry' markdown="1">
-
-### Personal Homepage
-
-This site is maintained as a compact academic profile and research portfolio.
-
-[[Website]](https://don738110198.github.io) [[GitHub]](https://github.com/DON738110198/DON738110198.github.io)
 
 </div>
 
